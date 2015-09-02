@@ -14,7 +14,8 @@ It is necessary and more easier to ignore long-ass search in theories and start 
 
 
 
-I am incredibly fortunate to work with great scientists: Cognitive Modeling of Human Risky Choice with Prof [Neil Stewart](https://www.stewart.warwick.ac.uk/) and A Reinforcement Learning Model of Animal Risky Choice with Prof [Elliot Ludvig](http://elliot.ludvig.ca/Home.html).
+I am incredibly fortunate to work with great behavioral scientists: Cognitive Modeling of Human Risky Choice with Prof [Neil Stewart](https://www.stewart.warwick.ac.uk/) and A Reinforcement Learning Model of Animal Risky Choice with Prof [Elliot Ludvig](http://elliot.ludvig.ca/Home.html).
+
 
 
 
