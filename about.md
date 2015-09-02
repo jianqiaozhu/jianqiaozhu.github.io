@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div style="text-align:left;”><img src=“/images/me.jpg”></div>
+<div style="text-align:left;”><img src=“/images/me.JPG”></div>
 
 I'm a M.Sc. [Behavioural and Economics Sciences](http://www2.warwick.ac.uk/fac/sci/psych/study/bes/) student at Warwick University. 
 I have completed my bachelor degree in Economics at the University of Nottingham.
