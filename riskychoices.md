@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-comments: false
+comments: true
 title: Modeling Risky Choices
 permalink: /riskychoices/
 ---
