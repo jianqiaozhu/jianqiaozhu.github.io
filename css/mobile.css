@@ -1,0 +1,91 @@
+/* ----------- iPhone 5 and 5S ----------- */
+
+
+img{
+ height: auto;
+ width:100%;
+}
+
+
+#contacts img{
+    width:50%;
+    height: auto;
+}
+
+#main_article img{
+  		width: 99%;
+}
+
+#main_article {
+  		font-size: 4em;
+		line-height: 1.5em;
+		width: 95%;
+		margin:auto;
+}
+
+.table_blog {
+  		font-size: 4em;
+		width: 150%;
+}
+
+.table_blog .category_tag {
+    font-size: 1em;
+}
+
+.searchbox_mobile {
+	visibility: visible;
+	margin:auto;
+	width:40%;
+
+}
+
+#blog_sidebar {
+	clear:both;
+  	font-size: 3em;
+	line-height: 2em;
+}
+
+#blog_sidebar{
+    visibility: hidden;
+}
+
+.searchbox{
+    visibility: hidden;
+}
+
+#table_blogwrapper h3{
+	font-size:0.9em;
+}
+
+#header ul a{
+	font-size:4em;
+	line-height:2em;
+}
+
+#main {
+	font-size:4em;
+	line-height:1.5em;
+}
+#main h2{
+	font-size:1.5em;
+}
+#main.img{
+    width:100%;
+}
+
+#projects-table table{
+	font-size:3em;
+}
+
+#h2_projects{
+	font-size:1em;
+}
+
+#footer{
+	font-size:3em;
+	line-height:1.5em;
+}
+
+
+}
+
