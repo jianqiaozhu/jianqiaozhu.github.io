@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <img src="/images/me.png” alt="Drawing"/>
-
+![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
 
 I'm a M.Sc. [Behavioural and Economics Sciences](http://www2.warwick.ac.uk/fac/sci/psych/study/bes/) student at Warwick University. 
 I have completed my bachelor degree in Economics at the University of Nottingham.
