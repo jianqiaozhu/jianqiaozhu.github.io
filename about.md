@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-permalink: /resume/
+title: About
+permalink: /about/
 ---
 Hi there, I'm a M.Sc. [Behavioural and Economics Sciences](http://www2.warwick.ac.uk/fac/sci/psych/study/bes/) student at Warwick University. I have completed my bachelor degree in Economics at the University of Nottingham.
 
