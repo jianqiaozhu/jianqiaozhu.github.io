@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![alt tag](https://github.com/CamZHU/camzhu.github.io/raw/master/images/me.jpeg=250x250)
+![alt tag](https://github.com/CamZHU/camzhu.github.io/raw/master/images/me.jpeg =250x250)
 
 I'm a M.Sc. [Behavioural and Economics Sciences](http://www2.warwick.ac.uk/fac/sci/psych/study/bes/) student at Warwick University. 
 I have completed my bachelor degree in Economics at the University of Nottingham.
