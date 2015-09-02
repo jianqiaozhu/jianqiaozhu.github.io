@@ -3,7 +3,8 @@ layout: page
 mathjax: true
 comments: true
 title: Modeling Risky Choices
-permalink: /riskychoices/
+permalink: /risk/
 ---
 
-Hi there.
+
+## Chapter 1: 
