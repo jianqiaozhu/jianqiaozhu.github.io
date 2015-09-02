@@ -2,7 +2,7 @@
 layout: page
 mathjax: true
 comments: true
-title: An alternative perspective to human risky choices
+title: Modeling Risky Choices
 permalink: /riskychoices/
 ---
 
