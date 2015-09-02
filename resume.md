@@ -3,25 +3,8 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+Hi there, I'm a M.Sc. [Behavioural and Economics Sciences](http://www2.warwick.ac.uk/fac/sci/psych/study/bes/) student at Warwick University. I have completed my bachelor degree in Economics at the [University of Nottingham](https://www.nottingham.ac.uk/).
 
-M.Sc. [Behavioural and Economics Sciences](http://www2.warwick.ac.uk/fac/sci/psych/study/bes/) in **University of Warwick**
+I've worked on Computational Modeling for a few years as part of my research. 
 
-Major: Psychological Models of Choices & Neuroeconomics
-
-B.A. Economics in **University of Nottingham**
-
-Major: Microeconomics Theory & Econometrics
-
-<div class="svgdiv">
-<svg width="400" height="150">
-  <rect x="130" y="20" width="100" height="100" stroke="black" stroke-width="1" fill="white" />
-  <line x1="90" y1="45" x2="130" y2="45" stroke="black" stroke-width="1" />
-  <line x1="90" y1="95" x2="130" y2="95" stroke="black" stroke-width="1" />
-  <text x="70" y="50" fill="black" text-anchor="middle" font-size="20px">x</text>
-  <text x="70" y="100" fill="black" text-anchor="middle" font-size="20px">y</text>
-
-  <text x="180" y="90" fill="black" text-anchor="middle" font-size="40px">*</text>
-  <line x1="230" y1="70" x2="280" y2="70" stroke="black" stroke-width="1" />
-</svg>
-</div>
 
