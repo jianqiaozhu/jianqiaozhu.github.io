@@ -9,7 +9,7 @@
         {% if site.github_username %}<li>
           <a href="https://github.com/{{ site.github_username }}">
             <span class="icon github">
-              <img src="/assets/githubicon.svg" width="15">
+              <img src="/assets/githubicon.svg" width="18">
             </span>
             <span class="username"> JQZhu </span>
           </a>
@@ -18,10 +18,11 @@
     
     
     <div class="footer-col-2 column">
-        {% if site.twitter_username %}<li>
+        {% if site.twitter_username %}
+        <li>
           <a href="https://twitter.com/{{ site.twitter_username }}">
             <span class="icon twitter">
-              <img src="/assets/twittericon.svg" width="15">
+              <img src="/assets/twittericon.svg" width="18">
             </span>
             <span class="username"> JQZhu </span>
           </a>
@@ -29,15 +30,16 @@
     </div>
 
     <div class="footer-col-3 column">
-    <li>
-    <a href="https://weibo.com/{{ site.weibo_username }}">
+      {% if site.weibo_username %}
+      <li>
+      <a href="https://weibo.com/{{ site.weibo_username }}">
       <span class="icon weibo">
-      <img src="/assets/weiboicon.svg" width="15">
+      <img src="/assets/weiboicon.svg" width="18">
       </span>
       <span class="username"> JQZhu </span>
     </a>
-    </li>
-    </div>
+    </li>{% endif %}
+    </div> 
 
   </div>
 
