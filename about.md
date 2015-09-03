@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div style="text-align:center; width=330px; height=248px;"><img src="/images/me.png"></div>
+<div style="text-align:inherit; height=274px; width=207px;"><img src="/images/me.png"></div>
 
 
 I'm a M.Sc. [Behavioural and Economics Sciences](http://www2.warwick.ac.uk/fac/sci/psych/study/bes/) student at Warwick University. 
