@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+
+![](images/me.png)
+
 <div style="text-align:center; height=140px; width=100px;"><img src="/images/me.png"></div>
 
 
