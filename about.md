@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+\includegraphics[height=2in]{images/me.png}
+
 ![](images/me.png)
 
 <div style="text-align:center; height=140px; width=100px;"><img src="/images/me.png"></div>
