@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<img src="images/me.png" alt="Drawing" style="width:100px">
+<img src="images/me.png" alt="Drawing" width="100" height="200" />
 
-![](images/me.png)
 
 <div style="text-align:center; height=140px; width=100px;"><img src="/images/me.png"></div>
 
