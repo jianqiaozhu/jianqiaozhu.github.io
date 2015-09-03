@@ -6,25 +6,26 @@
 
 
     <div class="footer-col-1 column">
-        {% if site.github_username %}<ul>
+      <ul>
+        {% if site.github_username %}<li>
           <a href="https://github.com/{{ site.github_username }}">
             <span class="icon github">
               <img src="/assets/githubicon.svg" width="20">
             </span>
             <span class="username"> JQZhu </span>
           </a>
-        </ul>{% endif %}
-        <br>
-        
-        {% if site.twitter_username %}<ul>
+        </li>{% endif %}
+
+        {% if site.twitter_username %}<li>
           <a href="https://twitter.com/{{ site.twitter_username }}">
             <span class="icon twitter">
               <img src="/assets/twittericon.svg" width="20">
             </span>
             <span class="username"> JQZhu </span>
           </a>
-        </ul>{% endif %}
+        </li>{% endif %}
         
+      </ul>  
     </div>
     
     
