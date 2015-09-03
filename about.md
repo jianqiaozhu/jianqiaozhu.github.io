@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://raw.githubusercontent.com/CamZHU/camzhu.github.io/master/images/me.png" height="332" width="440"/>
+<img src="https://raw.githubusercontent.com/CamZHU/camzhu.github.io/master/images/me.png" height="332" width="440" text-align="center" />
 
 
 Hi there, I'm a M.Sc. [Behavioural and Economics Sciences](http://www2.warwick.ac.uk/fac/sci/psych/study/bes/) student at Warwick University. 
