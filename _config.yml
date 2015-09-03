@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://camzhu.github.io"
 twitter_username: JQ_Zhu
 github_username:  camzhu
+weibo_username: cambridgezhu
 
 # Build settings
 markdown: redcarpet
