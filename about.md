@@ -4,17 +4,17 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://raw.githubusercontent.com/CamZHU/camzhu.github.io/master/images/me.png" height="332" width="440" text-align="center" />
+<img src="https://raw.githubusercontent.com/CamZHU/camzhu.github.io/master/images/me.png" height="332" width="440" style="text-align:center;" />
 
 
 Hi there, I'm a M.Sc. [Behavioural and Economics Sciences](http://www2.warwick.ac.uk/fac/sci/psych/study/bes/) student at Warwick University. 
-Before that, I have completed my bachelor degree in Economics at the University of Nottingham.
+Before, I have completed my bachelor degree in Economics at the University of Nottingham.
 
 
 I've worked on Computational Modeling for a few years as part of my research with datasets ranging from human to nonhuman. 
-I am a big fan of Python and open source solutions, and everything else that is included in "data science".
+I am a big fan of Python and open source solutions, and everything else that is included in the term "data science".
 In my opinion, the best way to master data science is to make hands dirty. 
-It is necessary and more easier to ignore long-ass search in theories and start writing code.
+To jump right in and learn about data science, it is necessary to ignore long-ass search in theories and start writing code.
 
 
 
