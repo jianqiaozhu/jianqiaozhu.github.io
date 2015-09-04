@@ -25,7 +25,7 @@ The primary objective of the tournament is to generate the lowest mean-squared d
 That said, competing models can only be trained by the estimation set.
 
 The winner of CPC2015 (the BEAST model) is an ensemble of many leading cognitive models.
-Basically, the BEAST contains [*Expected Value Model*](https://en.wikipedia.org/wiki/Expected_value), *Temporal-difference Learning*, *Attention-weight Model*, and *Priority Heuristic Model*
+Basically, the BEAST contains [*Expected Value Model*](https://en.wikipedia.org/wiki/Expected_value), [*Temporal-difference Learning*](https://en.wikipedia.org/wiki/Temporal_difference_learning), [*Attention-weight Model*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.377.1009&rep=rep1&type=pdf), and [*Priority Heuristic Model*](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2891015/)
 
 
 
