@@ -31,7 +31,7 @@ Basically, the BEAST contains four submodels including [*Expected Value Model*](
 The ensemble is not following classic voting schemes (e.g., Bayesian voting or pluraity voting).
 Instead, the model groups the submodels into two: the expected value model is considered as *unbiased mental technique* and the rest as *biased techniques*.
 The predictions are governed by *PBias*: the unbiased technique casts vote with the probability of *1-PBias* and the three biased techniques cast vote with the probability of *PBias/3*.
-Moreover, *PBias* decreases with the trials:
+Moreover, the behavior of *PBias* is designed to decrease with trials:
 
 \begin{equation}
  PBias(t) = \beta_i/(\beta_i+1+t^\sigma_i) 
