@@ -8,12 +8,21 @@ mathjax: true
 ---
 
 ## Why should we care about risky choice?
+
 People make choices everyday and every choice contains different degrees of uncertainty.
 That is, we want to make wise decisions when future information is (partly) unknown.
 Economists like to describe such choice as playing a gamble between lotteries.
 Most likely a lottery is expressed in the form of outcome-probability.
-For example, a lottery, which has two possible outcomes *H, L* and their corresponding probabilities *pH, 1-pH*, can be expressed as follows: $$ (H, pH; L, 1-pH) $$.
-This methodology is distilled to psychologists.
+This methodology was also distilled to psychologists.
+Say, a lottery, which has two possible outcomes *H, L* and their corresponding probabilities *pH, 1-pH*, can be expressed as follows: $$ (H, pH; L, 1-pH) $$
 
 
 ## What are the existing models like?
+
+I find tournaments great platforms to assess models.
+Hence, I have participated in the [Technion's Choice Prediction Competition 2015](http://departments.agri.huji.ac.il/economics/teachers/ert_eyal/rules.htm) (Hereafter, CPC2015).
+
+
+
+
+
