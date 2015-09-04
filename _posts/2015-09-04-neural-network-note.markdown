@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title:  "Some Crucial Facts about Neural Networks"
 excerpt: "We'll approach these facts through a simple and visualized way  rather than going deep in math."
 date:   2015-09-04 13:14:00
@@ -24,7 +24,7 @@ Real-world problems often describe in complex concepts and need to be solved hie
 > Complex concepts can be solved in deep networks where hierarchical structures were adapted to learn the hierarchies of knowledge
 
 
-However, just because something is possible doesn't make it a good idea. Deep networks become remarkablely hard to train.
+However, just because something is possible doesn't make it a good idea. Intuitively, deeper networks should become increasingly hard to train. Thus far, we know that the [stochastic gradient descent (SGD)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent) learning algorithm will run into trouble when training deep networks.
 
 
 
