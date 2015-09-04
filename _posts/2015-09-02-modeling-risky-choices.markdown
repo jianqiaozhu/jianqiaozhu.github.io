@@ -14,7 +14,9 @@ That is, we want to make wise decisions when future information is (partly) unkn
 Economists like to describe such choice as playing a gamble between lotteries.
 Most likely a lottery is expressed in the form of outcome-probability.
 This methodology was also distilled to psychologists.
-Say, a lottery, which has two possible outcomes *H, L* and their corresponding probabilities *pH, 1-pH*, can be expressed as follows: $$ (H, pH; L, 1-pH) $$
+Say, a lottery, which has two possible outcomes *H, L* and their corresponding probabilities *pH, 1-pH*, can be expressed as follows: 
+
+$$ (H, pH; L, 1-pH) $$
 
 
 ## What are the existing models like?
@@ -25,9 +27,12 @@ The primary objective of the tournament is to generate the lowest mean-squared d
 That said, competing models can only be trained by the estimation set.
 
 The winner of CPC2015 (the BEAST model) is an ensemble of many leading cognitive models.
-Basically, the BEAST contains [*Expected Value Model*](https://en.wikipedia.org/wiki/Expected_value), [*Temporal-difference Learning*](https://en.wikipedia.org/wiki/Temporal_difference_learning), [*Attention-weight Model*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.377.1009&rep=rep1&type=pdf), and [*Priority Heuristic Model*](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2891015/)
+Basically, the BEAST contains four submodels including [*Expected Value Model*](https://en.wikipedia.org/wiki/Expected_value), [*Temporal-difference Learning*](https://en.wikipedia.org/wiki/Temporal_difference_learning), [*Attention-weight Model*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.377.1009&rep=rep1&type=pdf), and [*Priority Heuristic Model*](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2891015/)
+The ensemble is not following classic voting schemes (e.g., Bayesian voting or pluraity voting).
+Instead, the model groups the submodels into two: the expected value model is considered as *unbiased mental technique* and the rest as *biased techniques*.
+The predictions are governed by *PBias*: the unbiased technique casts vote with the probability of *1-PBias* and the three biased techniques cast vote with the probability of *PBias/3*.
+Moreover, *PBias* decreases with the trials:
 
-
-
+$$ PBias(t) = \beta_i/(\beta_i+1+t^\sigma_i) $$
 
 
