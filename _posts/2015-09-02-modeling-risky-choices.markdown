@@ -12,7 +12,7 @@ People make choices everyday and every choice contains different degrees of unce
 That is, we want to make wise decisions when future information is (partly) unknown.
 Economists like to describe such choice as playing a gamble between lotteries.
 Most likely a lottery is expressed in the form of outcome-probability.
-For example, a lottery, $$L$$, has two possible outcomes $$H, L$$ and their corresponding probabilities $$pH, 1-pH$$: $$ L={H, pH; L, 1-pH} $$.
+For example, a lottery, $L$, which has two possible outcomes $H, L$ and their corresponding probabilities $pH, 1-pH$, can be expressed as follows: $$ L={H, pH; L, 1-pH} $$.
 This methodology is distilled to psychologists.
 
 
