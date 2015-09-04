@@ -19,7 +19,7 @@ Recent papers published by poineer researchers agree with me and some of the res
 
 Data plays a central role in modern scientific researches and industrial practices.
 I'm always willing to learn new methods and techniques.
-In my opinion, the best way to master data science is to make hands dirty. 
+In my experience, the best way to master data science is to make hands dirty. 
 To jump right in and learn about data science, it is necessary to ignore long-ass search in theories and start writing code.
 
 
