@@ -17,7 +17,7 @@ I found knowledge gaps between economics, psychology, and computer science, alth
 Recent papers published by poineer researchers agree with me and some of the results are exciting; for examples, there is marriage between [economics and artificial intelligence](https://www.seas.harvard.edu/news/2015/07/unintended-consequences-of-rationality) as well as collaboration between [moral psychology and reinfocement learning](http://www.ncbi.nlm.nih.gov/pubmed/23845564)
 
 
-Data is central in the modern scientific research and industrial practices.
+Data plays a central role in modern scientific researches and industrial practices.
 I'm always willing to learn new methods and techniques.
 In my opinion, the best way to master data science is to make hands dirty. 
 To jump right in and learn about data science, it is necessary to ignore long-ass search in theories and start writing code.
