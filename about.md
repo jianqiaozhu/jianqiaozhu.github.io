@@ -11,14 +11,20 @@ Hi there, I'm a M.Sc. [Behavioural and Economics Sciences](http://www2.warwick.a
 Before, I have completed my bachelor degree in Economics at the University of Nottingham.
 
 
-I've worked on Computational Modeling for a few years as part of my research with datasets ranging from human to nonhuman. 
+I've worked on Computational Modeling for a few years as part of my research with data collecting from human to nonhuman subjects. 
 I am a big fan of Python and open source solutions, and everything else that is included in the term "data science".
+I found knowledge gaps between economics, psychology, and computer science, although emerging fields like behavioral economics and neuroeconomics are trying hard to bridge the gaps.
+Recent papers published by poineer researchers agree with me and some of the results are exciting; for examples, there is marriage between [economics and artificial intelligence](https://www.seas.harvard.edu/news/2015/07/unintended-consequences-of-rationality) as well as collaboration between [moral psychology and reinfocement learning](http://www.ncbi.nlm.nih.gov/pubmed/23845564)
+
+
+Data is central in the modern scientific research and industrial practices.
+I'm always willing to learn new methods and techniques.
 In my opinion, the best way to master data science is to make hands dirty. 
 To jump right in and learn about data science, it is necessary to ignore long-ass search in theories and start writing code.
 
 
 
-I am incredibly fortunate to work with great behavioral scientists: Cognitive Modeling of Human Risky Choice with Prof [Neil Stewart](https://www.stewart.warwick.ac.uk/) and A Reinforcement Learning Model of Animal Risky Choice with Prof [Elliot Ludvig](http://elliot.ludvig.ca/Home.html).
+I am incredibly fortunate to work with great behavioral scientists: Cognitive Modeling of Human Risky Choice with Prof [Neil Stewart](https://www.stewart.warwick.ac.uk/) and Prof [Ido Erev](http://www.wbs.ac.uk/about/person/ido-erev), and A Reinforcement Learning Model of Animal Risky Choice with Prof [Elliot Ludvig](http://elliot.ludvig.ca/Home.html).
 
 
 

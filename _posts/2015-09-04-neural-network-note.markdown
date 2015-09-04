@@ -14,9 +14,7 @@ Put the theoream in one line:
 
 > Neural networks with a single hidden layer can be used to approximate any continuous function to any desired precision.
 
-That said, the exciting property of neural networks is the ability to mimick any function. However, just because something is possible doesn't make it a good idea. Deep networks become remarkablely hard to train.
-
-You can find a good introduction from [Michael Nielson's book](http://neuralnetworksanddeeplearning.com/chap5.html)
+That said, the exciting property of neural networks is the ability to mimick any function. You can find a good introduction from [Michael Nielson's book](http://neuralnetworksanddeeplearning.com/chap5.html)
 
 
 **The Hierarchies of Knowledge**
@@ -24,4 +22,16 @@ You can find a good introduction from [Michael Nielson's book](http://neuralnetw
 Real-world problems often describe in complex concepts and need to be solved hierarchically. Take computer vision for example, to train a system to make sense of individual pixels and edges is a simple task, but difficult to identify geometric shapes and multi-object scenes. This is where deep networks came in.
 
 > Complex concepts can be solved in deep networks where hierarchical structures were adapted to learn the hierarchies of knowledge
+
+
+However, just because something is possible doesn't make it a good idea. Deep networks become remarkablely hard to train.
+
+
+
+
+
+
+
+
+
 
