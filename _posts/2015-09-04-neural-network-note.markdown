@@ -8,7 +8,7 @@ mathjax: true
 ---
 
 
-**The Universality Theorem**
+**Universality Theorem**
 
 Put the theoream in one line:
 
@@ -18,7 +18,7 @@ That said, the exciting property of neural networks is the ability to mimick any
 You can find a good introduction from [Michael Nielson's book](http://neuralnetworksanddeeplearning.com/chap5.html)
 
 
-**The Hierarchies of Knowledge**
+**Hierarchies of Knowledge**
 
 Real-world problems often describe in complex concepts and need to be solved hierarchically. 
 Take computer vision for example, to train a system to make sense of individual pixels and edges is a simple task, but difficult to identify geometric shapes and multi-object scenes. 
