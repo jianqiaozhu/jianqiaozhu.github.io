@@ -13,7 +13,7 @@ Before, I have completed my bachelor degree in Economics at the University of No
 
 I've worked on Computational Modeling for a few years as part of my research with data collected from human to nonhuman subjects. 
 I like the idea of interdisciplinary where researches will benefit from cross-fertilization as experts from different perspectives study the same theme.
-However, knowledge gaps between economics, psychology, and computer science are significant, although emerging fields like behavioral economics and neuroeconomics are trying hard to bridge the gaps.
+However, knowledge gaps among economics, psychology, and computer science are significant, although emerging fields like behavioral economics and neuroeconomics are trying hard to bridge the gaps.
 Recent papers published by poineer researchers agree with me and some of the results are exciting; for examples, there is marriage between [economics and artificial intelligence](https://www.seas.harvard.edu/news/2015/07/unintended-consequences-of-rationality) as well as collaboration between [moral psychology and reinfocement learning](http://www.ncbi.nlm.nih.gov/pubmed/23845564)
 
 
