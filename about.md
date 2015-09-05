@@ -31,6 +31,6 @@ I am incredibly fortunate to work with great behavioral scientists: Cognitive Mo
 
 
 If you find my works interesting, don't hestitate to contact me. 
-You may reach me through my [email](camb.zhu@gmail.com).
+You may reach me through my [email](mailto:camb.zhu@gmail.com).
 
 
