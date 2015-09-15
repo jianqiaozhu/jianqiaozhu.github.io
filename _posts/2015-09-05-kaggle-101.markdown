@@ -14,7 +14,7 @@ The competition I have participated in was [the classical handwriting recognitio
 The rule is simple to make the most accurate out-of-sample prediction of [MNIST data](http://yann.lecun.com/exdb/mnist/).
 My result is just OK and you can find it as follows:
 
-<img src="https://raw.githubusercontent.com/CamZHU/camzhu.github.io/master/images/kaggle_digit_result.png" height="300" width="200"/>
+<img src="https://raw.githubusercontent.com/CamZHU/camzhu.github.io/master/images/kaggle_digit_result.png" height="500" width="600"/>
 
 My code is simple, which is basically a 3-layer neural network. 
 It only took me few minutes to tune.
