@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title:  "Some practices in Kaggle Competition"
-excerpt: "I participated in some Kaggle 101 projects recently"
+excerpt: "Kaggle is a fun way to practice machine learning skills, hence I participated in some Kaggle projects"
 date:   2015-09-10 17:30:00
 mathjax: true
 ---
