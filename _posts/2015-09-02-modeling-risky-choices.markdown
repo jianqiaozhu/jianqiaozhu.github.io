@@ -16,7 +16,7 @@ Most likely a lottery is expressed in the form of outcome-probability.
 This methodology was also distilled to psychologists.
 Say, a lottery, which has two possible outcomes *H, L* and their corresponding probabilities *pH, 1-pH*, can be expressed as follows: 
 
-$(H, pH; L, 1-pH)$
+$$(H, pH; L, 1-pH)$$
 
 
 ## What are the existing models like?
@@ -33,7 +33,7 @@ Instead, the model groups the submodels into two: the expected value model is co
 The predictions are governed by *PBias*: the unbiased technique casts vote with the probability of *1-PBias* and the three biased techniques cast vote with the probability of *PBias/3*.
 Moreover, the behavior of *PBias* is designed to decrease with trials:
 
-$PBias(t) = \frac{\beta_i}{\beta_i+1+t^\sigma_i}$
+$$PBias(t) = \frac{\beta_i}{\beta_i+1+t^\sigma_i}$$
 
 
 In doing so, the unbiased technique are more likely to cast the vote as *t* increases whereas the biased techniques are less likley to cast the vote trial by trial.
