@@ -14,4 +14,5 @@ mathjax: true
 
 ### 2. Readings
 
-
+[How to get started with data science & machine learning?](https://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle/)
+[How neural networks learn?](http://blog.fastforwardlabs.com/post/129793362663/how-do-neural-networks-learn)
