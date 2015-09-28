@@ -11,9 +11,9 @@ mathjax: true
 
 Of course! we must learn from Geoffrey Hinton's lectures on [Coursera](https://class.coursera.org/neuralnets-2012-001)
 
-[How neural networks learn?](http://mwskirpan.com/NN_viz/)
+[How neural networks learn?](http://mwskirpan.com/NN_viz/): a good visualization of back-propagation.
 
-[Neural networks in C++](https://vimeo.com/19569529)
+[Neural networks in C++](https://vimeo.com/19569529): again, back-propagation.
 
 
 
@@ -34,3 +34,9 @@ Of course! we must learn from Geoffrey Hinton's lectures on [Coursera](https://c
 ### 4. Future
 
 [Ethical Machine](http://ethicalmachines.com/) and [Deep Forger](https://twitter.com/deepforger)
+
+
+### 5. Resources
+
+[Free Geographic database](https://github.com/delight-im/FreeGeoDB)
+
