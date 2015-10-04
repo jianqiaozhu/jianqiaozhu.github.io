@@ -11,6 +11,8 @@ mathjax: true
 
 Of course! we must learn from Geoffrey Hinton's lectures on [Coursera](https://class.coursera.org/neuralnets-2012-001)
 
+Series of lectures from George State University's [Computational Neuroscience](http://www.ni.gsu.edu/~rclewley/Teaching/CompNeuro/NEUR4030.html) course
+
 [How neural networks learn?](http://mwskirpan.com/NN_viz/): a good visualization of back-propagation.
 
 [Neural networks in C++](https://vimeo.com/19569529): again, back-propagation.
