@@ -40,3 +40,5 @@ Of course! we must learn from Geoffrey Hinton's lectures on [Coursera](https://c
 
 [Free Geographic database](https://github.com/delight-im/FreeGeoDB)
 
+[A Huge List of Machine Learning and Statistics Repositories](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/)
+
