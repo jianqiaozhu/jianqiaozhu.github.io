@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 
-Hi there, I'm a M.Sc. [Behavioural and Economics Sciences](http://www2.warwick.ac.uk/fac/sci/psych/study/bes/) student at Warwick University. 
-Before, I have completed my bachelor degree in Economics at the University of Nottingham.
+Hi there, I'm a PhD student of Psychology at University of Warwick. 
+Before, I completed a master in Behavioral Economics at the same institution and a bachelor in Economics at the University of Nottingham.
 
 
 I've worked on Computational Modeling for a few years as part of my research with data collected from human to nonhuman subjects. 
