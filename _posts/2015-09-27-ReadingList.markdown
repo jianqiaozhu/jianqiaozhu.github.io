@@ -1,9 +1,9 @@
 ---
 layout: post
 comments: false
-title:  "A (Naive) Reading List"
+title:  "A (Naive) Reading List for neual network, reinforcement learning, and the related"
 excerpt: ""
-date:   2015-09-27 22:56:00
+date:   2016-03-07 12:25:00
 mathjax: true
 ---
 
@@ -22,7 +22,7 @@ The discussion about the impact of deep learning from [a computing perspective](
 Rich Sutton's [Future of AI - why scalable methods hold the key?](https://www.youtube.com/watch?v=pD-FWetbvN8)
 
 
-### 2. Readings
+### 2. Neural network
 
 [How to get started with data science & machine learning?](https://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle/)
 
@@ -56,5 +56,11 @@ Deep learning and Biology [(Yoshua Bengio's Talk)](https://www.youtube.com/watch
 
 [Free Geographic database](https://github.com/delight-im/FreeGeoDB)
 
-[A Huge List of Machine Learning and Statistics Repositories](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/)
+[A Huge List](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/) of Machine Learning and Statistics Repositories
+
+[Monte Carlo Tree Search](http://mcts.ai/about/index.html)
+
+[Another archive for deep reinforcement learning](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
+
+[Marvin Minsky's opinion](http://www.webofstories.com/play/marvin.minsky/33) of Noam Chomsky's theories
 
