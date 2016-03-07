@@ -14,7 +14,7 @@ I like the idea of interdisciplinary where researches will benefit from cross-fe
 However, knowledge gaps among economics, psychology, and computer science are significant, although emerging fields like behavioral economics and neuroeconomics are trying hard to bridge the gaps.
 Recent papers published by poineer researchers agree with me and some of the results are exciting; for examples, there is marriage between [economics and artificial intelligence](https://www.seas.harvard.edu/news/2015/07/unintended-consequences-of-rationality) as well as collaboration between [moral psychology and reinfocement learning](http://www.ncbi.nlm.nih.gov/pubmed/23845564)
 
-I can be reached through [email](mailto:camb.zhu@gmail.com) and twitter(https://twitter.com/JQ_Zhu).
+I can be reached through [email](mailto:camb.zhu@gmail.com) and [twitter](https://twitter.com/JQ_Zhu).
 
 
 
