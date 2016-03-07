@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-Hi there, I'm a PhD student of Psychology at University of Warwick. 
+Hi there, I'm a PhD student of Psychology at the University of Warwick. 
 Before, I completed a master in Behavioral Economics at the same institution and a bachelor in Economics at the University of Nottingham.
 
 
@@ -14,21 +14,7 @@ I like the idea of interdisciplinary where researches will benefit from cross-fe
 However, knowledge gaps among economics, psychology, and computer science are significant, although emerging fields like behavioral economics and neuroeconomics are trying hard to bridge the gaps.
 Recent papers published by poineer researchers agree with me and some of the results are exciting; for examples, there is marriage between [economics and artificial intelligence](https://www.seas.harvard.edu/news/2015/07/unintended-consequences-of-rationality) as well as collaboration between [moral psychology and reinfocement learning](http://www.ncbi.nlm.nih.gov/pubmed/23845564)
 
+I can be reached through [email](mailto:camb.zhu@gmail.com) and twitter(https://twitter.com/JQ_Zhu).
 
-Data plays a central role in modern scientific researches and industrial practices.
-I'm always willing to learn new methods and techniques.
-Also, I am a big fan of Python and open source solutions, and everything else that is included in the term "data science".
-In my experience, the best way to master data science is to make hands dirty. 
-To jump right in and learn about data science, it is necessary to ignore long-ass search in theories and start writing code.
-
-
-
-I am incredibly fortunate to work with great behavioral scientists: Cognitive Modeling of Human Risky Choice with Prof [Neil Stewart](https://www.stewart.warwick.ac.uk/) and Prof [Ido Erev](http://www.wbs.ac.uk/about/person/ido-erev), and A Reinforcement Learning Model of Animal Risky Choice with Prof [Elliot Ludvig](http://elliot.ludvig.ca/Home.html).
-
-
-
-
-If you find my works interesting, don't hestitate to contact me. 
-You may reach me through my [email](mailto:camb.zhu@gmail.com).
 
 
