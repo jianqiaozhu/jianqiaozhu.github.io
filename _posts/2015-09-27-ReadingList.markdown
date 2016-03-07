@@ -2,14 +2,14 @@
 layout: post
 comments: false
 title:  "A (Naive) Reading List"
-excerpt: "Behold!"
+excerpt: ""
 date:   2015-09-27 22:56:00
 mathjax: true
 ---
 
 ### 1. Lectures & Visulizations  
 
-Of course! we must learn from Geoffrey Hinton's lectures on [Coursera](https://class.coursera.org/neuralnets-2012-001)
+Of course! we should learn from Geoffrey Hinton's lectures on [Coursera](https://class.coursera.org/neuralnets-2012-001)
 
 Series of lectures from George State University's [Computational Neuroscience](http://www.ni.gsu.edu/~rclewley/Teaching/CompNeuro/NEUR4030.html) course
 
@@ -25,6 +25,7 @@ Series of lectures from George State University's [Computational Neuroscience](h
 
 [How neural networks learn?](http://blog.fastforwardlabs.com/post/129793362663/how-do-neural-networks-learn)
 
+Demystifying [Deep Reinforcement Learning esp. Deep Q Net](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 
 ### 3. Programming (from Python to Julia)
 
@@ -35,10 +36,14 @@ Series of lectures from George State University's [Computational Neuroscience](h
 
 ### 4. Future
 
-[Ethical Machine](http://ethicalmachines.com/) and [Deep Forger](https://twitter.com/deepforger)
+[Ethical Machine](http://ethicalmachines.com/) 
+
+[Deep Forger](https://twitter.com/deepforger)
+
+Rich Sutton's [Future of AI - why scalable methods hold the key?](https://www.youtube.com/watch?v=pD-FWetbvN8)
 
 
-### 5. Resources
+### 5. Other Resources
 
 [Free Geographic database](https://github.com/delight-im/FreeGeoDB)
 
