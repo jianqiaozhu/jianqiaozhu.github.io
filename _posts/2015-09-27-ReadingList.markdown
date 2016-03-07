@@ -17,6 +17,9 @@ Series of lectures from George State University's [Computational Neuroscience](h
 
 [Neural networks in C++](https://vimeo.com/19569529): again, back-propagation.
 
+The discussion about the impact of deep learning from [a computing perspective](https://medium.com/@cdixon/what-s-next-in-computing-e54b870b80cc#.gs9lyrj5p)
+
+Rich Sutton's [Future of AI - why scalable methods hold the key?](https://www.youtube.com/watch?v=pD-FWetbvN8)
 
 
 ### 2. Readings
@@ -34,16 +37,22 @@ Demystifying [Deep Reinforcement Learning esp. Deep Q Net](http://www.nervanasys
 [Image recognition libraries](http://www.cegapo.com/image-processing-libraries-w-12015/)
 
 
-### 4. Future
+### 4. Ethic/Moral Machines
 
 [Ethical Machine](http://ethicalmachines.com/) 
 
 [Deep Forger](https://twitter.com/deepforger)
 
-Rich Sutton's [Future of AI - why scalable methods hold the key?](https://www.youtube.com/watch?v=pD-FWetbvN8)
+
+### 5. Biology
+
+The link between neural computation and theory [(Nature Paper)](http://www.nature.com/articles/nn.4261.epdf?shared_access_token=iIMHSGKc86Nm2gubIXWhcdRgN0jAjWel9jnR3ZoTv0OqXoU-9dsuNI-Y39ZQONDLTF7tZlMHAGEROyzcPvN9sqhHNjeue-9BuyLPvYtq-MtPb50ptuCBDEndSaHWuVikVNzCNhW0qauJpqyDMT88dlLhwcIiQ5nCIx4R4vGBm6U%3D)
+
+Deep learning and Biology [(Yoshua Bengio's Talk)](https://www.youtube.com/watch?v=lKVIXI8Djv4)
 
 
-### 5. Other Resources
+
+### 6. Other Resources
 
 [Free Geographic database](https://github.com/delight-im/FreeGeoDB)
 
