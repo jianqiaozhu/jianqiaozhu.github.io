@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title:  "A (Naive) Reading List for neual network, reinforcement learning, and the related"
+title:  "A reading list for neual network, reinforcement learning, and the related"
 excerpt: ""
 date:   2016-03-07 12:25:00
 mathjax: true
