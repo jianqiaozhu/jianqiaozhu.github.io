@@ -9,5 +9,5 @@ github_username:  camzhu
 weibo_username: cambridgezhu
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 permalink: pretty
