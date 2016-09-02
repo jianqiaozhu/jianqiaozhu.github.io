@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title:  "Paper[2] Reinforcement Learning and Episodic Memory in Humans and Animals: An Integrative Framework"
+title:  "Paper[2] Reinforcement learning and episodic memory in humans and animals: an integrative framework"
 excerpt: "Episodic memory and decision making"
 date:   2016-09-01
 mathjax: true
