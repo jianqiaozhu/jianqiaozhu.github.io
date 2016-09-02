@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title:  "Paper[3] Lockwood et al., (2016) PNAS"
-excerpt: "Prosocial learning and neuroscience"
+title:  "Lockwood et al., (2016) PNAS"
+excerpt: "prosocial learning, neuroscience, RL"
 date:   2016-09-02
 mathjax: true
 ---

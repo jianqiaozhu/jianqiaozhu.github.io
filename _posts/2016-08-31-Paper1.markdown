@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: false
-title:  "Paper[1] Bonnefon, Shariff, & Rahwan (2016) Science"
-excerpt: "Moral dilemma and psychology"
+title:  "Bonnefon, Shariff, & Rahwan (2016) Science"
+excerpt: "moral psychology, survey"
 date:   2016-08-31
 mathjax: true
 ---
