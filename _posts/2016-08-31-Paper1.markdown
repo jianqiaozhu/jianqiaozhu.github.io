@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: false
-title:  "Paper[1] Neurocomputational mechanisms of prosocial learning and links to empathy"
-excerpt: "Moral dilemma and neuroscience"
+title:  "Paper[1] The social dilemma of autonomous vehicles"
+excerpt: "Moral dilemma and psychology"
 date:   2016-08-31
 mathjax: true
 ---
