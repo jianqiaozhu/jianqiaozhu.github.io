@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title:  "Lockwood et al., (2016) PNAS"
 excerpt: "prosocial learning, neuroscience, RL"
 date:   2016-09-02
