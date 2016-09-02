@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 
-Hi there, I'm a second-year PhD student of Psychology at the University of Warwick supervised by [Elliot Ludvig](http://elliot.ludvig.ca/Home.html). 
-Before, I was trained as behavioral economists in Nottingham and Warwick.
+Hi there, I'm a second-year PhD student of Psychology at the University of Warwick supervised by [Dr. Elliot Ludvig](http://elliot.ludvig.ca/Home.html). 
+Before, I was trained as a behavioral economist in Nottingham and Warwick.
 
 
 I've worked on Computational Modeling for a few years as part of my research with data collected from human to nonhuman subjects. 
