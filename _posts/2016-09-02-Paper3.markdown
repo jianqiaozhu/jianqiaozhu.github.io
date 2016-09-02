@@ -21,7 +21,7 @@ There are 3 conditions in the experiment:
 
 Researchers fitted a simple model-free reinforcement learning model to each condition separately, and then they obtained the best-fitted learning rate (aka. step-size parameter, alpha) and temperature of the softmax function (the higher the temperature --> more random the predicted behavior)
 
-<img src="/images/paper3" style="width: 50%; height: 50%; margin-left: auto; margin-right: auto;">
+<img src="/images/paper3_1" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
 
 Results indicate that 
 
@@ -31,5 +31,7 @@ Results indicate that
 
 
 fMRI data indicate that only sgACC is activated differently when learning to play for others, which may suggest that this area is related to prosocial learning.
+
+<img src="/images/paper3_2" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
 
 
