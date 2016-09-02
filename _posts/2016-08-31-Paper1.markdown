@@ -13,11 +13,14 @@ The paper concerned about how people respond to the moral behaviors of self-driv
 There are 6 experiments in total and data was collected from Amazon MTurk.
 
 Ex1: people tend to think the self-driving car, which is programmed to kills less and save more (i.e., act as utilitarianism), more morally acceptable.
+
 Ex2: but when the car would kill me (as a driver/passenger) in order to save more other people, the car becomes less favored in terms of willingness to purchase.
+
 Ex3 & 4: especially when other family members are on board.
+
 Ex5: It is moral to sacrifice myself to save others. However, people prefer not to be forced regardless the car is driving by itself or by people.
+
 Ex6: If the car is coded to force such scarification, willingness of purchase drops.
 
 
 
-#PaperEveryday

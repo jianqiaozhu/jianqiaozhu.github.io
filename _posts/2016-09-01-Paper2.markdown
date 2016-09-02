@@ -26,4 +26,3 @@ How good is the bayesian non-parametric Reinforcement Learning ? (i.e., how woul
 This is an interesting research question to answer.
 
 
-#PaperEveryday
