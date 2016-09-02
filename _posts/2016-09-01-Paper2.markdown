@@ -17,6 +17,7 @@ Episodic memory, which snapshot the context, is [now proved to be useful in deci
 The deep connections in computation level is also intriguing. 
 Episodic memory is though to be best descried as non-parametric models (e.g., k-nearest neighbor, kernel machines, and Gaussian process etc).
 Parametric models (e.g., deep neural network) could resemble the long-term memory where knowledge is cached in the learned weights of neural networks through repeated trainings.
+
 Key ideas can also be found in [this paper](http://gershmanlab.webfactional.com/pubs/GershmanDaw17.pdf).
 
 <img src="/images/paper2_1" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
