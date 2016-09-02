@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title:  "Paper[1] The social dilemma of autonomous vehicles"
+title:  "Paper[1] Bonnefon, Shariff, & Rahwan (2016) Science"
 excerpt: "Moral dilemma and psychology"
 date:   2016-08-31
 mathjax: true

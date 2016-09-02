@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Paper[3] Neurocomputational mechanisms of prosocial learning and links to empathy"
+title:  "Paper[3] Lockwood et al., (2016) PNAS"
 excerpt: "Prosocial learning and neuroscience"
 date:   2016-09-02
 mathjax: true

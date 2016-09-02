@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title:  "Paper[2] Reinforcement learning and episodic memory in humans and animals: an integrative framework"
+title:  "Paper[2] Gershman & Daw (2016) Annual Review of Psychology"
 excerpt: "Episodic memory and decision making"
 date:   2016-09-01
 mathjax: true
