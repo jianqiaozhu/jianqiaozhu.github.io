@@ -21,7 +21,7 @@ There are 3 conditions in the experiment:
 
 Researchers fitted a simple model-free reinforcement learning model to each condition separately, and then they obtained the best-fitted learning rate (aka. step-size parameter, alpha) and temperature of the softmax function (the higher the temperature --> more random the predicted behavior)
 
-<img src="/images/paper3" style="width:304px;height:228px">
+<img src="/images/paper3" style="width:152px;height:114px">
 
 Results indicate that 
 
