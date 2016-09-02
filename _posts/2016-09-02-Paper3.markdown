@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: false
+comments: true
 title:  "Paper[3] Neurocomputational mechanisms of prosocial learning and links to empathy"
 excerpt: "Prosocial learning and neuroscience"
 date:   2016-09-02
