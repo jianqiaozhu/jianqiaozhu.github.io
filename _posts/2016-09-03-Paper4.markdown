@@ -16,10 +16,11 @@ How do you define simplicity? I don't find any formal method to quantify the ter
 
 Chater & Loewenstein listed out 4 key features of sense-making:
 
-##(1) Sense and sense-making are pleasurable and their opposite are aversive. 
+## (1) Sense and sense-making are pleasurable and their opposite are aversive. 
 For example, after absorbing new information, we update our understanding of the object (i.e., make better sense of it) --> then we should seek for this information ex ante. However, if we anticipate the arrival of new information would result in negative change in sense, a fear of such information (aka. information avoidance) may emerge.
 
-##(2) Sense-making is not equally pleasurable 
+## (2) Sense-making is not equally pleasurable.
+
 
 
 
