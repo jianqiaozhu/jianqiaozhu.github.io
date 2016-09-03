@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title:  "Chater & Loewenstein (2016)"
+title:  "Chater & Loewenstein (2016) J Econ Beh Org"
 excerpt: "sense making, economic, cognitive science, curiosity"
 date:   2016-09-03
 mathjax: true
