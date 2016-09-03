@@ -1,0 +1,28 @@
+---
+layout: post
+comments: false
+title:  "Chater & Loewenstein (2016)"
+excerpt: "sense making, economic, cognitive science, curiosity"
+date:   2016-09-03
+mathjax: true
+---
+
+[This theory paper](http://www.sciencedirect.com/science/article/pii/S0167268115002838) draws my attentions becauses it provides a new perspective to understand curious behaviors which I am particularly interested to study.
+
+The new perspective is 'sense-making' (by words, it is about how organisms make sense of the environment).
+Sense-making is well-studied by Gestalts psychologists and it was considered as a drive that motivates organisms to establish a more simple representation of the world.
+
+How do you define simplicity? I don't find any formal method to quantify the term but some descriptive definition can be found: the shortest length of programming, Occam's razor, and Kolmogorov complexity.
+
+Chater & Loewenstein listed out 4 key features of sense-making:
+
+##(1) Sense and sense-making are pleasurable and their opposite are aversive. 
+For example, after absorbing new information, we update our understanding of the object (i.e., make better sense of it) --> then we should seek for this information ex ante. However, if we anticipate the arrival of new information would result in negative change in sense, a fear of such information (aka. information avoidance) may emerge.
+
+##(2) Sense-making is not equally pleasurable 
+
+
+
+
+
+<img src="/images/paper4_1" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
