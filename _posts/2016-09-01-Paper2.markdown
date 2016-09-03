@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title:  "Gershman & Daw (2016) Annual Review of Psychology"
+title:  "Gershman & Daw (2016) Ann Rev of Psy"
 excerpt: "episodic memory, decision making, RL"
 date:   2016-09-01
 mathjax: true
