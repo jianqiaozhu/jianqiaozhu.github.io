@@ -18,7 +18,7 @@ Model-based RL inevitably includes planning and this is why the authors focus on
 
 Their computational models of hope and fear abides to [psychological Belief-Desire Theory of Emotion](http://emr.sagepub.com/content/1/3/214.short)
 
-<img src="/images/paper5_1" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
+<img src="/images/paper5_1" style="width: 60%; height: 60%; margin-left: auto; margin-right: auto;">
 
 In nutshell, the formula is the product of upward mobility (in the terminology of Dan Ariely) and the probability of enjoying such upward future improvements.
 

@@ -7,7 +7,7 @@ date:   2016-09-01
 mathjax: true
 ---
 
-Combining episodic memory & decision making is really becoming a thing!
+Combining `episodic memory` & `decision making` is really becoming a thing!
 
 Previous decision making models all (implicitly) assume some kinds of memory. 
 For instances, we have seen semantic memory in model-based reinforcement learning, procedural memory in model-free reinforcement learning, and working memory in nearly every value-based decision models.

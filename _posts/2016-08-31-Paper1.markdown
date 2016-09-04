@@ -7,7 +7,7 @@ date:   2016-08-31
 mathjax: true
 ---
 
-If you haven't yet read the [Science paper of trolley problem (the self-driving cars version)](http://science.sciencemag.org/content/352/6293/1573), here is the main things you need to know.
+If you haven't yet read the [Science paper of `trolley problem` (the self-driving cars version)](http://science.sciencemag.org/content/352/6293/1573), here is the main things you need to know.
 
 <img src="/images/paper1_1" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
 

@@ -9,7 +9,7 @@ mathjax: true
 
 [This theory paper](http://www.sciencedirect.com/science/article/pii/S0167268115002838) draws my attentions becauses it provides a new perspective to understand curious behaviors which I am particularly interested to study.
 
-The new perspective is 'sense-making' (by words, it is about how organisms make sense of the environment).
+The new perspective is `sense-making` (by words, it is about how organisms make sense of the environment).
 Sense-making is well-studied by Gestalts psychologists and it was considered as a drive that motivates organisms to establish a more simple representation of the world.
 
 How do you define simplicity? I don't find any formal method to quantify the term but some descriptive definition can be found: the shortest length of programming, Occam's razor, and Kolmogorov complexity.
