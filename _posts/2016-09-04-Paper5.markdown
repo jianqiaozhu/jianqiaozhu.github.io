@@ -14,7 +14,7 @@ Scientists have a long history of affective decision making researches.
 
 However, to elicit emotional responses from model-based reinforcement learning is new to me.
 
-Model-based RL inevitably includes planning and this is why the authors focus on particular emotions that emerges with anticipating future events (hope & fear).
+Model-based RL inevitably includes a planning component, and this is why the authors focus on particular emotions that emerges from anticipating future events (hope & fear).
 
 Their computational models of hope and fear abides to [psychological Belief-Desire Theory of Emotion](http://emr.sagepub.com/content/1/3/214.short)
 
