@@ -1,0 +1,35 @@
+---
+layout: post
+comments: false
+title:  "Charpentier, Sharot et al (2016) Psy Sci"
+excerpt: "emotion, affective decision making"
+date:   2016-09-05
+mathjax: true
+---
+
+
+I wish to survey the `affective decision making` literature.
+[This paper](http://pss.sagepub.com/content/27/6/763.full) may represents one of the most cutting-edge affective decision making models
+
+The authors connect the idea of "feelings govern choice" to the prospect theory (K&T, 1979; 1992); 
+that is, the subjective utility is a proxy for feelings, which in turn govern choice.
+> humans described by Prospect Theory are guided by the immediate emotional impact of gains and losses. Kahneman (2011) Thinking Fast and Slow >
+
+
+So why not directly measure emotions and test its ability in predicting choice?
+Following this idea, the authors ask participants to self-report their feelings after completing risky choices.
+They first tested the best-fitted feeling function (i.e., how risky outcomes relate translate into feelings)
+
+<img src="/images/paper6_1" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
+
+And the simulation suggests the above model has the lowest BIC score (aka best fit).
+
+The feeling function was further used into predicting gamble choice: `P(gamble)`.
+The feeling model outperforms other decision making models in BIC scores.
+
+<img src="/images/paper6_2" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
+
+
+I suspect fitting feeling functions to individuals might be more intersting because there are intuitively individual differences in emotional responses to same risky outcomes.
+
+
