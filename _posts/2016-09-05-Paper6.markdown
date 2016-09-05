@@ -20,7 +20,7 @@ So why not directly measure emotions and test its ability in predicting choice?
 Following this idea, the authors ask participants to self-report their feelings after completing risky choices.
 They first tested the best-fitted feeling function (i.e., how risky outcomes relate translate into feelings)
 
-<img src="/images/paper6_1" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
+<img src="/images/paper6_1" style="width: 60%; height: 60%; margin-left: auto; margin-right: auto;">
 
 And the simulation suggests the above model has the lowest BIC score (aka best fit).
 
