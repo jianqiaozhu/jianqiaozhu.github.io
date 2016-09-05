@@ -10,7 +10,7 @@ mathjax: true
 [*The social dilemma of autonomous vehicles*](http://science.sciencemag.org/content/352/6293/1573)
 
 
-If you haven't yet read the [Science paper of `trolley problem` (the self-driving cars version), here is the main things you need to know.
+If you haven't yet read the Science paper of `trolley problem` (the self-driving cars version), here is the main things you need to know.
 
 <img src="/images/paper1_1" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
 
