@@ -14,7 +14,7 @@ I wish to survey the `affective decision making` literature.
 The authors connect the idea of "feelings govern choice" to the prospect theory (K&T, 1979; 1992); 
 that is, the subjective utility is a proxy for feelings, which in turn govern choice.
 
-> humans described by Prospect Theory are guided by the immediate emotional impact of gains and losses. **Kahneman (2011) Thinking Fast and Slow**.
+> humans described by Prospect Theory are guided by the immediate emotional impact of gains and losses. **Thinking Fast and Slow (Kahneman, 2011)**.
 
 
 So why not directly measure emotions and test its ability in predicting choice?
