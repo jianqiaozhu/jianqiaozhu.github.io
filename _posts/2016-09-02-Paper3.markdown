@@ -7,7 +7,11 @@ date:   2016-09-02
 mathjax: true
 ---
 
-[Prosocial learning area was identified in the brain](http://www.pnas.org/content/113/35/9763) thanks to reinforcement learning modeling.
+
+[*Neurocomputational mechanisms of prosocial learning and links to empathy*](http://www.pnas.org/content/113/35/9763)
+
+
+Prosocial learning area was identified in the brain thanks to reinforcement learning modeling.
 The experiment is the basic 2-alternative forced task; one option has 75% reward rate and the other has 25% reward rate.
 Participants don't know which option has higher reward rate at the beginning, and therefore they must learn by repeatedly sampling from experiences.
 

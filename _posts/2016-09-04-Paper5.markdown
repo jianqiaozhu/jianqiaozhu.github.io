@@ -7,7 +7,9 @@ date:   2016-09-04
 mathjax: true
 ---
 
-I was first introduced to emotion/affective computing literature by [this IJCAI paper](http://www.ijcai.org/Proceedings/16/Papers/125.pdf).
+[*Fear and Hope Emerge from Anticipation in Model-Based Reinforcement Learning*](http://www.ijcai.org/Proceedings/16/Papers/125.pdf)
+
+I was first introduced to emotion/affective computing literature by this IJCAI 2016 paper.
 
 It is not novel to combine emotions and decision making.
 Scientists have a long history of affective decision making researches.

@@ -7,6 +7,9 @@ date:   2016-09-01
 mathjax: true
 ---
 
+[*Reinforcement Learning and Episodic Memory in Humans and Animals: An Integrative Framework*](http://gershmanlab.webfactional.com/pubs/GershmanDaw17.pdf)
+
+
 Combining `episodic memory` & `decision making` is really becoming a thing!
 
 Previous decision making models all (implicitly) assume some kinds of memory. 
@@ -18,7 +21,7 @@ The deep connections in computation level is also intriguing.
 Episodic memory is though to be best descried as non-parametric models (e.g., k-nearest neighbor, kernel machines, and Gaussian process etc).
 Parametric models (e.g., deep neural network) could resemble the long-term memory where knowledge is cached in the learned weights of neural networks through repeated trainings.
 
-Key ideas can also be found in [this paper](http://gershmanlab.webfactional.com/pubs/GershmanDaw17.pdf).
+Key ideas can also be found in the paper.
 
 <img src="/images/paper2_1" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
 

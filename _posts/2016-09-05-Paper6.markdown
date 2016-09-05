@@ -1,15 +1,17 @@
 ---
 layout: post
 comments: false
-title:  "Charpentier, Sharot et al (2016) Psy Sci"
+title:  "Charpentier, Sharot et al. (2016) Psy Sci"
 excerpt: "emotion, affective decision making"
 date:   2016-09-05
 mathjax: true
 ---
 
+[*Models of Affective Decision Making: How Do Feelings Predict Choice?*](http://pss.sagepub.com/content/27/6/763.full)
+
 
 I wish to survey the `affective decision making` literature.
-[This paper](http://pss.sagepub.com/content/27/6/763.full) may represents one of the most cutting-edge affective decision making models
+This paper may represents one of the most cutting-edge affective decision making models
 
 The authors connect the idea of "feelings govern choice" to the prospect theory (K&T, 1979; 1992); 
 that is, the subjective utility is a proxy for feelings, which in turn govern choice.
