@@ -11,29 +11,20 @@ mathjax: true
 
 Some new ideas in RL were presented in the paper such as `general value function (GVF)` and `Mean Squared Projected Bellman Error (MSPBE)`.
 
-In nutshell, GVF generalizes every component of the original value function: 
+In nutshell, GVF generalizes many core components of the original value function: 
 \begin{equation}
 v(s) = E_\pi[\sum \gamma^k R_{t+k+1} | S_t = s]
 \end{equation}
 
+The discount factor is now interpreted as the likelihood of termination, rewards as cumulants (which is accumulated future prediction errors).
 
-MSPBE is a teaching signal that allows stochastic gradient descent to operate on. 
+In addition, MSPBE is a teaching signal that allows stochastic gradient descent to operate on. 
 
-
-I wish to survey the `affective decision making` literature.
-This paper may represents one of the most cutting-edge affective decision making models
-
-The authors connect the idea of "feelings govern choice" to the prospect theory (K&T, 1979; 1992); 
-that is, the subjective utility is a proxy for feelings, which in turn govern choice.
-
-> humans described by Prospect Theory are guided by the immediate emotional impact of gains and losses. **Thinking Fast and Slow (Kahneman, 2011)**.
-
-
-So why not directly measure emotions and test its ability in predicting choice?
-Following this idea, the authors ask participants to self-report their feelings after completing risky choices.
-They first tested the best-fitted feeling function (i.e., how risky outcomes relate translate into feelings)
-
-<img src="/images/paper6_1" style="width: 60%; height: 60%; margin-left: auto; margin-right: auto;">
+With these, the authors are able to introduce a rule-based curious behavior (a bit like improved e-greedy).
+The control parameter Z is defined as:
+\begin{equation}
+Z_t^{(i)} = \frac{\delta^{(i)}}{\sqrt(var[\delta^{(i)}])}
+\end{equation}
 
 And the simulation suggests the above model has the lowest BIC score (aka best fit).
 
