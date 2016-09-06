@@ -25,7 +25,7 @@ The control parameter Z is defined as:
 \begin{equation}
 Z_t^{(i)} = \frac{\delta^{(i)}}{\sqrt{var[\delta^{(i)}]}}
 \end{equation}
-where $\delta^{(i)}$ represents the prediction error for the ith GVF.
+where \delta represents the prediction error for the ith GVF.
 
 The decision rule states that if Z pass some pre-determined threshold, the behavioral policy will turn to be random otherwise follow the best policy (greedy).
 
