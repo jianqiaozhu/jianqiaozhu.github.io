@@ -25,15 +25,23 @@ The control parameter Z is defined as:
 \begin{equation}
 Z_t^{(i)} = \frac{\delta^{(i)}}{\sqrt{var[\delta^{(i)}]}}
 \end{equation}
+where $\delta^{(i)}$ represents the prediction error for the ith GVF.
 
-And the simulation suggests the above model has the lowest BIC score (aka best fit).
-
-The feeling function was further used into predicting gamble choice: `P(gamble)`.
-The feeling model outperforms other decision making models in BIC scores.
-
-<img src="/images/paper6_2" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
+The decision rule states that if Z pass some pre-determined threshold, the behavioral policy will turn to be random otherwise follow the best policy (greedy).
 
 
-I suspect fitting feeling functions to individuals might be more intersting because there are intuitively individual differences in emotional responses to same risky outcomes.
+Then they run an experiment to test this rule on the Create robot (showned below):
+<img src="/images/paper7_1" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
+
+There is a GVF that was learned from off-policy experience, which dedicates to predict future discounted battery current draw.
+
+
+<img src="/images/paper7_2" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
+
+Surprise was first observed in the early stage of learning (<15,000 timesteps). It is obvious since the robot was placed in a new environment, it should be surprised when it has lack of knowledge about environment.
+
+On the 25,000 timestep, a 5 pound load was placed in the cargo bay of the robot. It will definitely influence the GVF's prediciton of future battery current. After the load, we can observe another peak of surprise and the behavioral policy distort toward random.
+
+
 
 
