@@ -1,0 +1,45 @@
+---
+layout: post
+comments: false
+title:  "White, Modayil, & Sutton (2014) AAAI"
+excerpt: "curiosity, surprise, exploration"
+date:   2016-09-06
+mathjax: true
+---
+
+[*Surprise and Curiosity for Big Data Robotics*](http://homes.soic.indiana.edu/adamw/surprise.pdf)
+
+Some new ideas in RL were presented in the paper such as `general value function (GVF)` and `Mean Squared Projected Bellman Error (MSPBE)`.
+
+In nutshell, GVF generalizes every component of the original value function: $v(s) = E_\pi[\sum \gamma^k R_{t+k+1} | S_t = s]$
+
+
+MSPBE is a teaching signal that allows stochastic gradient descent to operate on. 
+
+
+I wish to survey the `affective decision making` literature.
+This paper may represents one of the most cutting-edge affective decision making models
+
+The authors connect the idea of "feelings govern choice" to the prospect theory (K&T, 1979; 1992); 
+that is, the subjective utility is a proxy for feelings, which in turn govern choice.
+
+> humans described by Prospect Theory are guided by the immediate emotional impact of gains and losses. **Thinking Fast and Slow (Kahneman, 2011)**.
+
+
+So why not directly measure emotions and test its ability in predicting choice?
+Following this idea, the authors ask participants to self-report their feelings after completing risky choices.
+They first tested the best-fitted feeling function (i.e., how risky outcomes relate translate into feelings)
+
+<img src="/images/paper6_1" style="width: 60%; height: 60%; margin-left: auto; margin-right: auto;">
+
+And the simulation suggests the above model has the lowest BIC score (aka best fit).
+
+The feeling function was further used into predicting gamble choice: `P(gamble)`.
+The feeling model outperforms other decision making models in BIC scores.
+
+<img src="/images/paper6_2" style="width: 80%; height: 80%; margin-left: auto; margin-right: auto;">
+
+
+I suspect fitting feeling functions to individuals might be more intersting because there are intuitively individual differences in emotional responses to same risky outcomes.
+
+
