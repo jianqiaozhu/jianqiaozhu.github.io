@@ -11,7 +11,10 @@ mathjax: true
 
 Some new ideas in RL were presented in the paper such as `general value function (GVF)` and `Mean Squared Projected Bellman Error (MSPBE)`.
 
-In nutshell, GVF generalizes every component of the original value function: $v(s) = E_\pi[\sum \gamma^k R_{t+k+1} | S_t = s]$
+In nutshell, GVF generalizes every component of the original value function: 
+\begin{equation}
+v(s) = E_\pi[\sum \gamma^k R_{t+k+1} | S_t = s]
+\end{equation}
 
 
 MSPBE is a teaching signal that allows stochastic gradient descent to operate on. 
