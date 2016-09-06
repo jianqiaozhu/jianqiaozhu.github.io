@@ -9,7 +9,7 @@ mathjax: true
 
 [*Surprise and Curiosity for Big Data Robotics*](http://homes.soic.indiana.edu/adamw/surprise.pdf)
 
-Some new ideas in RL were presented in the paper such as `general value function (GVF)` and `Mean Squared Projected Bellman Error (MSPBE)`.
+Some new ideas in RL were presented in the paper such as `GVF`(general value function) and `MSPBE`(Mean Squared Projected Bellman Error).
 
 In nutshell, GVF generalizes many core components of the original value function: 
 \begin{equation}
