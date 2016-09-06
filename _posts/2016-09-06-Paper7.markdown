@@ -23,7 +23,7 @@ In addition, MSPBE is a teaching signal that allows stochastic gradient descent 
 With these, the authors are able to introduce a rule-based curious behavior (a bit like improved e-greedy).
 The control parameter Z is defined as:
 \begin{equation}
-Z_t^{(i)} = \frac{\delta^{(i)}}{\sqrt(var[\delta^{(i)}])}
+Z_t^{(i)} = \frac{\delta^{(i)}}{\sqrt{var[\delta^{(i)}]}}
 \end{equation}
 
 And the simulation suggests the above model has the lowest BIC score (aka best fit).
