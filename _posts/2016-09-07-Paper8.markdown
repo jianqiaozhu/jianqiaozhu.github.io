@@ -12,7 +12,7 @@ mathjax: true
 I missed Robb's talk on this paper in [the `DRAW forum` at Warwick](http://www2.warwick.ac.uk/fac/cross_fac/draw/forum/) last year.
 Yesterday, this paper was mentioned and suggested by my supervisor so I feel obligated to thoroughly walk through it.
 
-Feel interesting points surface up straight away are:
+Feel interesting points surface up straightaway are:
 
 (1) The usage of mobile phone apps (they are using [`The Great Brain Experiment`](http://www.thegreatbrainexperiment.com/)) to collect massive behavioral data
 
@@ -27,14 +27,14 @@ Then we fit parameters to empirical data, which further constrain/regulate model
 So here is their model:
 
 \begin{equation}
-Happiness(t) = w_0 + w_1 \sum_{j=1}^{t} \gamma^t-j CR_j + w_2 \sum_{j=1}^{t} \gamma^t-j EV_j + w_3 \sum_{j=1}^{t} \gamma^t-j RPE_j
+Happiness(t) = w_0 + w_1 \sum_{j=1}^{t} \gamma^{t-j} CR_j + w_2 \sum_{j=1}^{t} \gamma^{t-j} EV_j + w_3 \sum_{j=1}^{t} \gamma^{t-j} RPE_j
 \end{equation}
 
 The model basically implies that level of happiness at time t is determined by chosen certain reward (CR), the expected value of chosen gambles (EV), and reward prediction errors (RPE).
 
 If you familiar with economics model, CR and EV are easy to understand. They are basically governed by the nature of gambles.
 
-The intersting component is the inclusion of RPEs. It is a quantity that measures the differences between experienced/actual and predicted/estimated rewards.
+The intersting component is the inclusion of RPEs (if you are familiar with RL literature, it is sometimes called Temporal-difference errors as well). It is a quantity that measures the differences between experienced/actual and predicted/estimated rewards.
 RPEs are supposed to provide decision makers insights about how future would be (sort of forward looking guide).
 
 Based on the model specification, the authors collected data from smartphone-based apps and from lab-based neuroimaging machines.
