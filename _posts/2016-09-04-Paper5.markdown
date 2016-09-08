@@ -18,11 +18,11 @@ However, to elicit emotional responses from model-based reinforcement learning i
 
 Model-based RL inevitably includes a planning component, and this is why the authors focus on particular emotions that emerges from anticipating future events (hope & fear).
 
-Their computational models of hope and fear abides to [psychological Belief-Desire Theory of Emotion](http://emr.sagepub.com/content/1/3/214.short)
+Their computational model of hope and fear abides to [psychological Belief-Desire Theory of Emotion](http://emr.sagepub.com/content/1/3/214.short)
 
 <img src="/images/paper5_1" style="width: 60%; height: 60%; margin-left: auto; margin-right: auto;">
 
-In nutshell, the formula is the product of upward mobility (in the terminology of Dan Ariely) and the probability of enjoying such upward future improvements.
+In nutshell, the formula is the product of [`upside mobility`](http://danariely.com/2011/05/18/upside-of-irrationality-paperback/) (in the terminology of Dan Ariely) and the probability of enjoying such upward future improvements.
 
 Some interesting simluations tasks were done to test the emotional model.
 If you familiar with RL literature, cliff walking is a classic scenario to test behavioral policies.
