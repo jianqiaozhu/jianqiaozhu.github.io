@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title:  "Reading <Karpathy's Survival Guide to a PhD>"
+title:  "Reading Karpathy's Survival Guide to a PhD"
 excerpt: "guide, experiences"
 date:   2016-09-08
 mathjax: true
