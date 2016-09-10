@@ -1,0 +1,47 @@
+---
+layout: post
+comments: false
+title:  "Chapter 4 of Adam White's Thesis [2]"
+excerpt: "Predictive Knowledge, reinforcement learning"
+date:   2016-09-10
+mathjax: true
+---
+
+[*Developing a predictive approach to knowledge*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.698.7096&rep=rep1&type=pdf)
+
+Today I continue learning from Adam White's thesis.
+
+I focus on the predictive knowledge approaches that he reviewed in the computer science literature.
+The general framework is a question-answer setup, where an agent try its best to answer some specific questions.
+Similar to Golman and Loewenstein's setup for their [information gap theory](https://www.cmu.edu/dietrich/sds/docs/golman/golman_loewenstein_curiosity.pdf):
+
+> People will seek information about questions they like thinking about and will avoid information about questions they do not like thinking about.
+
+It is very intuitively right.
+Their work further defines the question-answer knowledge structure and classifies 3 different states:
+
+(1) knowing --> a question & a particular answer
+
+(2) not knowing, but knowing that one doesn't know --> a question & a set of possible answers
+
+(3) not knowing and not knowing what one doesn't know --> pure unawareness, the absence of an activated question
+
+
+I'm not sure whether Adam is in which state (1), (2) or (3) for the information gap theory. 
+These are fascinating works stemmed from economics and psychology.
+
+Go back to CS literature, there are a handful of techniques that capable of implementing predictive knowledge.
+Preditive State Representation by Littman, Sutton, & Singh (2000);
+TD nets by Sutton & Tanner (2005);
+TPSR by Boots et al., (2010);
+prediction profile models by Talvitie & Singh (2011);
+and the GVF by White, Sutton, & Modayil's work.
+
+There are not many texts that compare and contrast these works. 
+I would love to learn some review works fixing this gap. :)
+
+
+
+
+
+
