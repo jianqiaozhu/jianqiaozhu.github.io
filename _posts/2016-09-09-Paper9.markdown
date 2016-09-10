@@ -21,7 +21,7 @@ However, thesis is better organized and expand to even larger scope than review 
 
 
 I have recently read Adam White's curiosity and surprise paper.
-The paper mentioned and utilized General Value Function, which is also the theme for Chapter 4.
+The paper mentioned and utilized `General Value Function`, which is also the theme for Chapter 4.
 It is a new perspective of looking at the value function.
 I believe that there are many follow-up papers and one of them got into top ML conference is the [Schaul et al (2015) ICML](http://jmlr.org/proceedings/papers/v37/schaul15.pdf). 
 
@@ -43,7 +43,7 @@ You can imagine an agent pick some of the cumulant to assist decision making.
 It is the usefulness of some kind of cumulant for achieving current goal that determines how would a cumulant being used to control.
 
 This is an interesting area to explore.
-In Adam's example, 
+In Adam's `example`, 
 
 > Consider an agent driving a car from one location to another. [...] We may specify several cumulants, such as a cumulant equal to the continuous fuel consumption of the car, or a cumulant equal to one when the car is too close to the car in front of it. A third cumulant could equal to the temperature outside the car. This third cumulant is not obviously related to the goal of driving from one location to another quickly, but predicting future temperature may be useful for other tasks, or might be best thought of as general knowledge of the agent’s environment.
 
