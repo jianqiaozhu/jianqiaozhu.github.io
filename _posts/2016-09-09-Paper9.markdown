@@ -15,9 +15,9 @@ I don't think PhD thesis is that bad, so I decided to start reading other PhD's 
 
 Adam White is a recent graduate from University of Alberta's RL lab.
 I feel strongly obligated to learn the most advance knowledge about RL from his thesis. 
-One thing that thesis is particularly reading material is the systematic presentation of the cutting-edge knowledge.
-For sure, we can find review papers from top journal that surveys relevant literatures for readers.
-However, thesis is structured better and expand to larger scope than a review paper, say, in *Tren in Cog Sci*.
+One thing makes thesis good reading materials is the systematic presentation of the cutting-edge knowledge.
+For sure, one can find review papers from top journal that did excellent jobs in surveying relevant literatures for readers.
+However, thesis is better organized and expand to even larger scope than review papers.
 
 
 I have recently read Adam White's curiosity and surprise paper.
