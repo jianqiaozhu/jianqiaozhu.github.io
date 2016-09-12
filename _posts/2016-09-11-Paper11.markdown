@@ -53,6 +53,7 @@ Further breakdown of the $$ \nabla_\theta logP(\tau ; \theta) $$:
 
 The above equations are at core of the policy gradient method.
 Let's do a bit reflections/evaluations.
+
 This method, as it is mentioned in [Andrej's post](http://karpathy.github.io/2016/05/31/rl/), can have very interesting applications in non-differentiable computation in neural network.
 Attention can be designed as a form of policy gradient. 
 A series of ideas are formalized in [Williams (1992)](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf), [Minh et al (2014) Recurrent Models of Visual Attention](http://arxiv.org/pdf/1406.6247v1.pdf), and [Schulman et al (2015)](http://arxiv.org/pdf/1506.05254v3.pdf)
