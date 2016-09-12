@@ -11,7 +11,7 @@ Couple more techniques were introduced to policy gradient method.
 
 (1) Baseline
 
-Recall the likelihood ratio gradient:
+Recall the `likelihood ratio gradient`:
 
 \begin{equation}
 \nabla U(\theta) \approx \frac{1}{m} \sum_{i=1}^{m} \nabla_\theta log P(\tau^{(i)}; \theta) R(\tau^{(i)}) 
@@ -36,9 +36,13 @@ This region is defined as $$KL(P(\tau;\theta) || P(\tau; \theta+\delta\theta)) \
 
 (3) Variance reduction by discounting
 
+Although it's nature to think of estimation of Q value as $$Q^{\pi, \gamma} (s,u) = E[r_0 + \gamma r_1, \gamma^2 r_2 + \dots | s_0 = s, u_0 = u]$$, discount factor was induced to balance the temporal structure of rewards.
+Look at the equation again.
+We are using $$\gamma$$ as a hyperparameter to reduce variance.
 
 (4) Variance reduction by function approximation (=critic)
 
 
-
+Similar idea can be found in $$TD(\gamma)$$.
+We estimate the Q values as $$Q(s,u) = E[r_0 + \gamma r_1  + \gamma^2 V^\pi(s_2) | s_0 = s, u_0 = u]$$
 
