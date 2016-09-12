@@ -7,7 +7,26 @@ date:   2016-09-12
 mathjax: true
 ---
 
+Couple more techniques were introduced to policy gradient method.
 
+(1) Baseline
+
+Recall the likelihood ratio gradient:
+
+\begin{equation}
+\nabla U(\theta) \approx \frac{1}{m} \sum_{i=1}^{m} \nabla_\theta log P(\tau^{(i)}; \theta) R(\tau^{(i)}) 
+\end{equation}
+
+
+
+
+(2) Step sizing and trust region
+
+
+(3) Variance reduction by discounting
+
+
+(4) Variance reduction by function approximation (=critic)
 
 
 
