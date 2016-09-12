@@ -1,0 +1,14 @@
+---
+layout: post
+comments: false
+title:  "Policy Gradient [2]"
+excerpt: "reinforcement learning, deep learning"
+date:   2016-09-12
+mathjax: true
+---
+
+
+
+
+
+
