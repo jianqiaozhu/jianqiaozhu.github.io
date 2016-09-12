@@ -17,11 +17,22 @@ Recall the likelihood ratio gradient:
 \nabla U(\theta) \approx \frac{1}{m} \sum_{i=1}^{m} \nabla_\theta log P(\tau^{(i)}; \theta) R(\tau^{(i)}) 
 \end{equation}
 
+Intuitively, when all $$R>0$$, the network tries to increase probabilites of all paths but relatively heightened the path with higher returns.
+Introducing some baseline performance, $$b$$, to all paths would result in negative gradient for some not-so-good paths.
 
+\begin{equation}
+\nabla U(\theta) \approx \frac{1}{m} \sum_{i=1}^{m} \nabla_\theta log P(\tau^{(i)}; \theta) R(\tau^{(i)} - b) 
+\end{equation}
 
+Our method is still unbiased.
+In practice, $$b=V^\pi (s_k)$$ indicates the expected long-term return under current policy.
 
 (2) Step sizing and trust region
 
+Step size need to be considered carefully esp in policy gradient because a terrible policy obtained from oversized learning rate will lead to another terrible policy.
+
+First order approximation from gradient can be good within some `'trust region'`.
+This region is defined as $$KL(P(\tau;\theta) || P(\tau; \theta+\delta\theta)) \leq \epsilon$$
 
 (3) Variance reduction by discounting
 
