@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title:  "Policy Gradient [1]"
-excerpt: "reinforcement learning"
+excerpt: "reinforcement learning, deep learning"
 date:   2016-09-11
 mathjax: true
 ---
@@ -37,7 +37,7 @@ E_{m~P(\tau ; \theta)}[\nabla_\theta U(\theta)] = E_{m~P(\tau ; \theta)}[\nabla_
 \end{align}
 
 \begin{align}
-E_{m~P(\tau ; \theta)}[\nabla_\theta U(\theta)] = \frac{1}{m} \sum_{i=1]^{m} \nabla_\theta logP(\tau ; \theta) R(\tau) 
+E_{m~P(\tau ; \theta)}[\nabla_\theta U(\theta)] = 1/m \sum_{i=1]^{m} \nabla_\theta logP(\tau ; \theta) R(\tau) 
 \end{align}
 
 Appealing properties magically arise:
