@@ -33,7 +33,10 @@ After some math, we are able to obtain the `Likelihood Ratio Policy Gradient`:
 
 
 \begin{align}
-E_{m~P(\tau ; \theta)}[\nabla_\theta U(\theta)] & = E_{m~P(\tau ; \theta)}[\nabla_\theta logP(\tau ; \theta) R(\tau)] \\
+E_{m~P(\tau ; \theta)}[\nabla_\theta U(\theta)] & = E_{m~P(\tau ; \theta)}[\nabla_\theta logP(\tau ; \theta) R(\tau)]
+\end{align}
+
+\begin{align}
  & = \frac{1}{m} \sum_{i=1]^{m} \nabla_\theta logP(\tau ; \theta) R(\tau) 
 \end{align}
 
@@ -48,6 +51,8 @@ Further breakdown of the $$ \nabla_\theta logP(\tau ; \theta) $$:
 
 (2) The log likelihood of a trajectory can be calculated without knowing the dynamic model (aka. environment dynamic). Note that, in classical control literature, $$u$$ denotes action.
 
+The above equations are at core of the policy gradient method.
+Let's do a bit reflection.
 
 
 
