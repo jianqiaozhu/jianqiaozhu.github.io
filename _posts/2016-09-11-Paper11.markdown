@@ -31,7 +31,8 @@ After some math, we are able to obtain the `Likelihood Ratio Policy Gradient`:
 \nabla_\theta U(\theta) & =\sum_\tau P(\tau ; \theta) \nabla_\theta logP(\tau ; \theta) R(\tau)
 \end{align}
 \begin{align}
-E_{m~P(\tau ; \theta)}[\nabla_\theta U(\theta)] & = E_{m~P(\tau ; \theta)}[\nabla_\theta logP(\tau ; \theta) R(\tau)] \\
+E_{m~P(\tau ; \theta)}[\nabla_\theta U(\theta)] & = E_{m~P(\tau ; \theta)}[\nabla_\theta logP(\tau ; \theta) R(\tau)]
+
 & = \frac{1}{m} \sum_{i=1]^{m} \nabla_\theta logP(\tau ; \theta) R(\tau)
 \end{align}
 
