@@ -17,9 +17,9 @@ When faced with delayed, uncertain rewards, humans and other animals usually pre
 **Zhu, J.**, & Ludvig, E. (2017) Chasing Anticipated Prediction Errors. *3rd Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM-17)*, Michigan, USA.
 
 
-### 2. Foraging in Internal Environment
+### 2. Sampling in Multimodal Representations
 
-Both resources in the natural environment and concepts in a semantic space are distributed “patchily”, with large gaps in between the patches. Levy flight has been proved advantageous empirically and optimal theoretically in such pathy environment. It exhibits a power-law scaling of the flight distance, which is scale-free and self-similar. So does the temporal structure of human cognition, which shows 1/f-like fluctuations.
+Both resources in the natural environment and concepts in a semantic space are distributed “patchily”, with large gaps in between the patches. Levy flight has been proved advantageous empirically and optimal theoretically in such pathy environment. It exhibits a power-law scaling of the flight distance, which is scale-free and self-similar. So does the temporal structure of human cognition, which shows *1/f*-like fluctuations.
 
 **Zhu, J.**, Sanborn, A. N., & Chater, N. (under review) Mental Sampling in Multimodal
 Representations. *50th Annual Meeting of the Society for Mathematical Psychology (MathPsych-17)*,
