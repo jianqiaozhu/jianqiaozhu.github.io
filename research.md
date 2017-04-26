@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Welcome to my personal page
+title: Research
 permalink: /research/
 ---
 
-1. 
 
 
