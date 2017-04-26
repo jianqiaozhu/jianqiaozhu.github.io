@@ -10,9 +10,6 @@ Before, I was trained as a behavioral economist in Nottingham and Warwick.
 
 
 I've worked on Computational Modeling for a few years as part of my research with data collected from human to nonhuman subjects. 
-I am interested in reinforcement learning modelling of risky, social, and moral decision making.
-
-I can be reached through [email](mailto:camb.zhu@gmail.com) and [twitter](https://twitter.com/JQ_Zhu).
 
 
 
