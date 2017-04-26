@@ -7,7 +7,7 @@ permalink: /research/
 ### 1. Curiosity and Information Seeking
 
 <p align="center">
-<img src="/images/APE.png" style="width: 60%; height: 60%; margin-left: auto; margin-right: auto;">
+<img src="/images/APE.png" style="width: 40%; height: 40%; margin-left: auto; margin-right: auto;">
 </p>
 
 When faced with delayed, uncertain rewards, humans and other animals usually prefer to know the eventual outcomes in advance This preference for cues providing advance information can lead to seemingly suboptimal choices, where less reward is preferred over more reward. We build a reinforcement learning model of this information-seeking behavior, integrating imagination, planning, and decision making. 
