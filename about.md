@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome to my personal page
-permalink: /
+permalink: /index/
 ---
 
 
