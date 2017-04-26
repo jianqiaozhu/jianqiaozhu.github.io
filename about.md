@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p align="center">
-<img src="/images/me.jpeg" style="width: 60%; height: 60%; margin-left: auto; margin-right: auto;">
+<img src="/images/me.jpeg" style="width: 40%; height: 40%; margin-left: auto; margin-right: auto;">
 </p>
 
 Hi, I'm Jianqiao Zhu, or just "Zhu", currently a second-year PhD student of Psychology at the University of Warwick supervised by [Prof. Elliot Ludvig](http://elliot.ludvig.ca/Home.html) and [Prof. Adam Sanborn](https://www2.warwick.ac.uk/fac/sci/psych/people/asanborn/). My research aims to understand computational principles underlying human cognition.
