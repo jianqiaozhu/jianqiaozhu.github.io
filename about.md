@@ -15,7 +15,7 @@ Jul 26, 2017 - I will present a poster at [CogSci 2017](http://www.cognitivescie
 
 Jul 21, 2017 - I will be presenting at [MathPsych 2017](http://mathpsych.org/conferences/2017/)
 
-Jun 10, 2017 - I will attend and present a poster at [RLDM 2017](rldm.org). 
+Jun 10, 2017 - I will attend and present a poster at [RLDM 2017](http://rldm.org). 
 
 
 
